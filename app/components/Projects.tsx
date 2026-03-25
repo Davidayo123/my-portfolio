@@ -36,7 +36,7 @@ const projects = [
       "Retrieval-augmented generation study assistant with document upload, intelligent Q&A, flashcard generation, and knowledge graph visualization.",
     tags: ["LangChain", "Pinecone", "Next.js", "OpenAI"],
     image: "/projects/rag-study-buddy.png",
-    link: "#",
+    link: "https://rag-study-buddy.onrender.com/",
   },
   {
     title: "Smart Grid Hybrid AI — Energy Prediction Service",
