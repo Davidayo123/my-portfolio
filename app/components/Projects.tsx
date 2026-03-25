@@ -44,7 +44,7 @@ const projects = [
       "Real-time energy consumption prediction service using a GRU + LightGBM hybrid model with Bayesian uncertainty estimation for accurate and reliable forecasting.",
     tags: ["GRU", "LightGBM", "FastAPI", "Bayesian ML"],
     image: "/projects/energy-grid.png",
-    link: "#",
+    link: "https://smart-grid-prediction-api.onrender.com",
   },
 ];
 
