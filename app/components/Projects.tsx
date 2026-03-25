@@ -38,6 +38,14 @@ const projects = [
     image: "/projects/rag-study-buddy.png",
     link: "#",
   },
+  {
+    title: "Smart Grid Hybrid AI — Energy Prediction Service",
+    description:
+      "Real-time energy consumption prediction service using a GRU + LightGBM hybrid model with Bayesian uncertainty estimation for accurate and reliable forecasting.",
+    tags: ["GRU", "LightGBM", "FastAPI", "Bayesian ML"],
+    image: "/projects/energy-grid.png",
+    link: "#",
+  },
 ];
 
 export default function Projects() {
